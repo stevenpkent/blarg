@@ -1,0 +1,12 @@
+/Users/stevenkent/Desktop/blarg/target/generated-sources/protobuf/java/com/shopping/stubs/user/UserRequestOrBuilder.java
+/Users/stevenkent/Desktop/blarg/target/generated-sources/protobuf/java/com/shopping/stubs/user/UserRequest.java
+/Users/stevenkent/Desktop/blarg/target/generated-sources/protobuf/java/com/shopping/stubs/user/UserResponse.java
+/Users/stevenkent/Desktop/blarg/target/generated-sources/protobuf/java/com/shopping/stubs/user/Gender.java
+/Users/stevenkent/Desktop/blarg/src/main/java/com/shopping/server/UserServer.java
+/Users/stevenkent/Desktop/blarg/src/main/java/com/shopping/db/H2DatabaseConnection.java
+/Users/stevenkent/Desktop/blarg/src/main/java/com/shopping/db/UserDAO.java
+/Users/stevenkent/Desktop/blarg/src/main/java/com/shopping/db/User.java
+/Users/stevenkent/Desktop/blarg/target/generated-sources/protobuf/java/com/shopping/stubs/user/User.java
+/Users/stevenkent/Desktop/blarg/src/main/java/com/shopping/service/UserServiceImpl.java
+/Users/stevenkent/Desktop/blarg/target/generated-sources/protobuf/grpc-java/com/shopping/stubs/user/UserServiceGrpc.java
+/Users/stevenkent/Desktop/blarg/target/generated-sources/protobuf/java/com/shopping/stubs/user/UserResponseOrBuilder.java
